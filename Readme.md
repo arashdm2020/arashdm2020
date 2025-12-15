@@ -61,7 +61,17 @@ You can ask me about **Solidity & smart contract security 🔐**, **gas optimiza
 
 
 ---
+### 🔐 Security & Reliability
 
+![Smart Contract Security](https://img.shields.io/badge/Smart%20Contract%20Security-2C2C2C?style=for-the-badge)
+![Reentrancy](https://img.shields.io/badge/Reentrancy%20Protection-8B0000?style=for-the-badge)
+![Access Control](https://img.shields.io/badge/Access%20Control-4B0082?style=for-the-badge)
+![Formal Verification](https://img.shields.io/badge/Formal%20Verification-003366?style=for-the-badge)
+![Fuzz Testing](https://img.shields.io/badge/Fuzz%20Testing-556B2F?style=for-the-badge)
+![Invariant Testing](https://img.shields.io/badge/Invariant%20Testing-2F4F4F?style=for-the-badge)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-5A2A27?style=for-the-badge)
+
+---
 ### 🧱 Backend / Infra
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
@@ -72,7 +82,27 @@ You can ask me about **Solidity & smart contract security 🔐**, **gas optimiza
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 
 ---
+### 🌐 Distributed Systems & Infrastructure
 
+![Event Driven](https://img.shields.io/badge/Event--Driven%20Architecture-005571?style=for-the-badge)
+![Message Queues](https://img.shields.io/badge/Message%20Queues-6A5ACD?style=for-the-badge)
+![Caching](https://img.shields.io/badge/Caching%20Strategies-008080?style=for-the-badge)
+![Idempotency](https://img.shields.io/badge/Idempotency-483D8B?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability-2E8B57?style=for-the-badge)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-B22222?style=for-the-badge)
+
+---
+
+### 🧠 Protocol Research & Consensus
+
+![Consensus Algorithms](https://img.shields.io/badge/Consensus%20Algorithms-191970?style=for-the-badge)
+![PoW](https://img.shields.io/badge/PoW-444444?style=for-the-badge)
+![PoS](https://img.shields.io/badge/PoS-2E8B57?style=for-the-badge)
+![MEV](https://img.shields.io/badge/MEV%20Awareness-8B0000?style=for-the-badge)
+![L2 & Rollups](https://img.shields.io/badge/L2%20%26%20Rollups-4B0082?style=for-the-badge)
+![Protocol Design](https://img.shields.io/badge/Protocol%20Design-003366?style=for-the-badge)
+
+---
 ### 🔧 Tooling & DevOps
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
