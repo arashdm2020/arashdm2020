@@ -36,10 +36,29 @@ You can ask me about **Solidity & smart contract security 🔐**, **gas optimiza
 
 ---
 
-### 🔗 Web3 & Blockchain
+### 🔗 Web3, Protocols & API Layer
+
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![JSON-RPC](https://img.shields.io/badge/JSON--RPC-000000?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs)
+![The Graph](https://img.shields.io/badge/The%20Graph-6747ED?style=for-the-badge&logo=thegraph)
+![Alchemy](https://img.shields.io/badge/Alchemy-0B0D17?style=for-the-badge)
+![Infura](https://img.shields.io/badge/Infura-FF6B4A?style=for-the-badge)
+
+![Hardhat](https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge)
+
+![Merkle Trees](https://img.shields.io/badge/Merkle%20Trees-2E3440?style=for-the-badge)
+![ECDSA](https://img.shields.io/badge/ECDSA-6A5ACD?style=for-the-badge)
+![BLS Signatures](https://img.shields.io/badge/BLS%20Signatures-4B0082?style=for-the-badge)
+
 
 ---
 
