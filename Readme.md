@@ -59,6 +59,8 @@ You can ask me about **Solidity & smart contract security 🔐**, **gas optimiza
 ![ECDSA](https://img.shields.io/badge/ECDSA-6A5ACD?style=for-the-badge)
 ![BLS Signatures](https://img.shields.io/badge/BLS%20Signatures-4B0082?style=for-the-badge)
 
+![EVM Internals](https://img.shields.io/badge/EVM%20Internals-3C3C3D?style=for-the-badge)
+![Gas Economics](https://img.shields.io/badge/Gas%20Economics-FF8C00?style=for-the-badge)
 
 ---
 ### 🔐 Security & Reliability
